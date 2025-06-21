@@ -40,3 +40,13 @@ Transform simple bullet points into captivating professional bios for **LinkedIn
 ```bash
 git clone https://github.com/haystackz12/ai-bio-generator.git
 cd ai-bio-generator
+
+## 🧠 Credits
+
+Built by [@haystackz12](https://github.com/haystackz12) with 💡, ☕, and [OpenAI](https://openai.com/).
+
+---
+
+## 📄 License
+
+[MIT License](LICENSE)
