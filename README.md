@@ -2,7 +2,7 @@
 
 Generate professional, personalized bios for LinkedIn, Twitter, or résumés — powered by GPT-4.
 
-![Demo Screenshot](https://via.placeholder.com/800x400.png?text=App+Screenshot)
+![App Screenshot](screenshot.png)
 
 ## 🚀 Features
 
