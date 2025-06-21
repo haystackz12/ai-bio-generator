@@ -31,16 +31,6 @@ Transform simple bullet points into captivating professional bios for **LinkedIn
 
 ---
 
-## 📦 Local Setup
-
-> Clone and run locally with your OpenAI API key
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/haystackz12/ai-bio-generator.git
-cd ai-bio-generator
-
 ## 🧠 Credits
 
 Built by [@haystackz12](https://github.com/haystackz12) with 💡, ☕, and [OpenAI](https://openai.com/).
@@ -50,3 +40,14 @@ Built by [@haystackz12](https://github.com/haystackz12) with 💡, ☕, and [Ope
 ## 📄 License
 
 [MIT License](LICENSE)
+
+
+## 📦 Local Setup
+
+> Clone and run locally with your OpenAI API key
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/haystackz12/ai-bio-generator.git
+cd ai-bio-generator
