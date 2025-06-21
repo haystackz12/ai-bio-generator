@@ -6,7 +6,7 @@ Transform simple bullet points into captivating professional bios for **LinkedIn
 
 ## 🔗 Live Demo
 
-👉 [Launch the App on Streamlit](https://ai-bio-generator.streamlit.app)
+👉 [Launch the App on Streamlit](https://ai-bio-generator-jem9ewqfmxrglv8dzon7ss.streamlit.app/)
 
 ---
 
